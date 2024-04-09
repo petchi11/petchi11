@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+## LeetCode Stats:
+
+![](https://leetcard.jacoblin.cool/petchimani11?ext=heatmap)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/petchimani_11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/petchi-mani-7281431b2) 
