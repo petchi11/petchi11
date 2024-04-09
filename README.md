@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-> "if you really understand a question 100%, it would take you less than a minute to solve it."
->                                                                        - Petchi Mani
+
+<pre> "if you really understand a question 100%, it would take you less than a minute to solve it."
+                                                                          -   Petchi Mani </pre>
 
 ## LeetCode Stats:
 
